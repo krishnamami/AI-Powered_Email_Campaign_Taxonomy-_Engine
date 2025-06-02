@@ -1,4 +1,4 @@
-# AI-Powered_Email_Campaign_Taxonomy-_Engine
+# AI-Powered_Email_Campaign_Taxonomy_Engine
 
 Automatically classify and extract taxonomy attributes from email campaigns using OpenAI's language models, FAISS for rule retrieval, and LangChain for orchestrating the logic.
 ## 🚀 Project Overview
