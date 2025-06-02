@@ -48,6 +48,6 @@ Extract template_id and offer_type from input metadata and write to CSV.
 -Reducing human error in manual classification processes
 
 ✍️ Author
- [Krishna GOud]
+ [Krishna Goud]
 Feel free to fork, contribute, or raise issues!
 
