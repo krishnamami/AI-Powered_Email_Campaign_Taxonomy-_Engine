@@ -25,6 +25,7 @@ Required packages include:
 
 
 📁 taxonomy-engine/
+
 ├── App.py               # Main script
 ├── requirements.txt      # Python package dependencies
 └── taxonomy_output_from_bot.csv (created on run)
