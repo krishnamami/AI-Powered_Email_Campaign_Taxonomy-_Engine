@@ -12,6 +12,9 @@ This project demonstrates how to:
 
 Great for automating **email marketing workflows** where taxonomy consistency is critical.
 
+![image](https://github.com/user-attachments/assets/a574f56e-31df-4760-a9f1-21658c215bda)
+
+
 ---
 Required packages include:
 
