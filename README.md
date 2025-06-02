@@ -52,8 +52,11 @@ Extract template_id and offer_type from input metadata and write to CSV.
 
 📈 Use Cases
 -Automating taxonomy tagging for email retention campaigns
+
 -Powering downstream tools like Salesforce, SFMC, or Klaviyo
+
 -Enabling data pipelines for email performance analysis
+
 -Reducing human error in manual classification processes
 
 
