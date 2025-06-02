@@ -47,7 +47,14 @@ Extract template_id and offer_type from input metadata and write to CSV.
 -Enabling data pipelines for email performance analysis
 -Reducing human error in manual classification processes
 
+
+## Related Projects
+[Fine_Tuning_LLM](https://github.com/krishnamami/Fine_Tuning_LLM)
+
+[Multi Agent Anamoly Detection](https://github.com/krishnamami/Multi_Agent_Anamoly_Detection)
+
 ✍️ Author
- [Krishna Goud]
-Feel free to fork, contribute, or raise issues!
+Krishna Goud
+
+Head of Data Engineering & MLOps | Rocket LA  [LinkedIn](https://www.linkedin.com/in/krishnagoud)
 
