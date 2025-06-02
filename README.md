@@ -51,6 +51,7 @@ Use Pydantic to validate the fields.
 Extract template_id and offer_type from input metadata and write to CSV.
 
 📈 Use Cases
+
 -Automating taxonomy tagging for email retention campaigns
 
 -Powering downstream tools like Salesforce, SFMC, or Klaviyo
