@@ -24,7 +24,8 @@ Required packages include:
 .streamlit pyngrok --quiet
 
 
-📁 taxonomy-engine/
+📁 
+taxonomy-engine/
 
 ├── App.py               # Main script
 
