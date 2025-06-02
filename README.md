@@ -39,12 +39,16 @@ taxonomy-engine/
 💡 How It Works
 1.Define Rules
 Embed plain-text taxonomy rules using OpenAI embeddings.
+
 2.Retrieve Rule
 Use FAISS to find the most relevant rule based on source ID (e.g., sfmc_347_august).
+
 3.Generate JSON
 Prompt an LLM to convert rule into structured JSON.
+
 4.Validate JSON
-Use Pydantic to validate the fields like:
+Use Pydantic to validate the fields.
+
 5.Output Result
 Extract template_id and offer_type from input metadata and write to CSV.
 
