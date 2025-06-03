@@ -71,3 +71,5 @@ Krishna Goud
 
 Head of Data Engineering & MLOps | Rocket LA  [LinkedIn](https://www.linkedin.com/in/krishnagoud)
 
+#AIinMarketing #LangChain #WorkflowAutomation #DataEngineering #MarketingOps #Streamlit #SalesforceIntegration #RAG #StartWithWhy #EnterpriseAI #CampaignAutomation #AIOps
+
